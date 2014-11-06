@@ -15,7 +15,7 @@
     "koop-server": "https://github.com/jgravois/koop-server/tarball/add-rest",
     "pg": "~3.4.0",
     "git-rev": "~0.2.1",
-    "koop-github": "https://github.com/jgravois/koop-github/tarball/add-rest",
+    "koop-github": "https://github.com/jgravois/koop-github/tarball/add-rest"
   },
   "scripts": {
     "start": "node server.js",
