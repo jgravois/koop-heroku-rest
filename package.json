@@ -4,20 +4,7 @@
   "version": "0.1.0",
   "description": "An API for converting GeoJSON data into Esri Feature Services",
   "dependencies": {
-    "express": "~4.0.0",
-    "request": "~2.27.0",
-    "node-fs": "~0.1.7",
-    "config": "~0.4.35",
-    "cors": "~2.2.0",
-    "response-time": "~1.0.0",
-    "ejs": "~1.0.0",
-    "body-parser": "1.0.2",
-    "koop-server": "https://github.com/jgravois/koop-server/tarball/add-rest",
-    "pg": "~3.4.0",
-    "git-rev": "~0.2.1",
-    "koop-github": "https://github.com/jgravois/koop-github/tarball/add-rest",
-    "koop-gist": "https://github.com/chelm/koop-gist/tarball/master",
-    "koop-socrata": "https://github.com/chelm/koop-socrata/tarball/master"
+
   },
   "scripts": {
     "start": "node server.js",
