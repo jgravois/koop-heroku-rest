@@ -12,6 +12,7 @@
     "response-time": "~1.0.0",
     "ejs": "~1.0.0",
     "body-parser": "1.0.2",
+    "koop-server": "https://github.com/jgravois/koop-server/tarball/add-rest",
     "pg": "~3.4.0",
     "git-rev": "~0.2.1",
     "koop-github": "https://github.com/jgravois/koop-github/tarball/add-rest",
